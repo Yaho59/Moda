@@ -64,11 +64,30 @@ main{
     grid-area: 6/3/11/7;
 }
 
-.frontpage-container__item3 p{
+.frontpage-container__item3 h1{
     color: var(--color-text-primary);
     text-align: center;
     font-size: 3.2rem;
     font-weight: bold;
     line-height: 1.2;
     
+}
+
+.content-principal__information h2{
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 2.6rem;
+    text-align: start;
+    color: var(--color-text-primary);
+    margin-block-start: 50px;
+    padding-inline-start: 30px;
+}
+
+.content-principal__information p{
+    text-align: justify;
+    font-size: 1.4rem;
+    line-height: 1.7rem;
+    margin-block-start: 20px;
+    padding-inline-start: 50px;
+    color: #757575;
 }

@@ -73,6 +73,11 @@ main{
     
 }
 
+.content-principal__information{
+    display: flex;
+    flex-direction: column;
+}
+
 .content-principal__information h2{
     font-weight: 700;
     font-size: 2.4rem;

@@ -34,10 +34,6 @@ main{
     height: auto;
 }
 
-/* .main-frontpage{
-    width: 100%;
-    height: auto;
-} */
 
 .main-frontpage-container{
     display: grid;
@@ -59,9 +55,6 @@ main{
     grid-area: 2/2/7/8;
 }
 
-/* .frontpage-container__item2 img{
-
-} */
 
 .frontpage-container__item3{
     display: flex;

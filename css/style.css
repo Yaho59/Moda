@@ -246,3 +246,43 @@ main{
     margin: 40px 10px 15px;
     cursor: pointer;
 }
+
+.container-gallery{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(40px 1fr));
+    grid-auto-rows: 50px;
+}
+
+.container-gallery div img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 8px 25%;
+}
+
+.container-gallery__item1{
+    grid-area: 1/1/6/8;
+}
+.container-gallery__item2{
+    grid-area: 6/1/11/8;
+    background-color: var(--color-secondary);
+    color: white;
+    padding: 20px;
+}
+
+.container-gallery__item2 p{
+    font-size: 1.8rem;
+    line-height: 2.2rem;
+}
+
+.container-icons-socialmedia{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 25px;
+}
+
+.container-icons-socialmedia i{
+    font-size: 2.0rem;
+    font-weight: 500;
+}

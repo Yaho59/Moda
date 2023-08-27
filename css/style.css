@@ -569,4 +569,23 @@ footer p{
     .container-gallery__item5{
         grid-area: 18/1/28/8;
     }
+
+    .main-about-us{
+        display: flex;
+        gap: 30px;
+    }
+
+    .main-about-us__title h3:nth-child(1){
+        font-size: 2.6rem;
+    }
+    
+    .main-about-us__title h3:nth-child(2){
+        font-size: 2.8rem;
+    }
+
+    .main-about-us__information p{
+        font-size: 1.8rem;
+        font-weight: 2.2rem;
+    }
+    
 }

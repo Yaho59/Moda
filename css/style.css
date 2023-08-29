@@ -587,5 +587,51 @@ footer p{
         font-size: 1.8rem;
         font-weight: 2.2rem;
     }
+
+    .container-contact__item1{
+        grid-area: 1/1/10/11;
+    }
+    .container-contact__item2{
+        grid-area: 2/2/10/6;
+    }
+    
+    .container-contact__item2 h3{
+        font-size: 2.8rem;
+        line-height: 3.1rem;
+    }
+    
+    .container-contact__item2 p{
+        font-size: 2.6rem;
+        font-weight: bold;
+        margin-top: 80px;
+    }
+    
+    .container-contact__item2 div::after{
+        content: '';
+        width: 15.0rem;
+        height: 10px;
+        transform: translate(-40%, 50%);
+    }
+    
+    .container-contact__item3 img{
+        object-fit: cover;
+    }
+    
+    .container-contact__item3{
+        grid-area: 2/6/6/10;
+        margin-top: 0;
+    }
+    
+    .container-contact__item4{
+        grid-area: 6/6/11/10;
+        background-color: white;
+        padding-top: 10px;
+    }
+    
+    .container-contact__item4 p{
+        font-size: 1.8rem;
+        line-height: 2.2rem;
+        padding: 5px;
+    }    
     
 }

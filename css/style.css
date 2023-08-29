@@ -609,17 +609,14 @@ footer p{
     .container-contact__item2 div::after{
         content: '';
         width: 15.0rem;
-        height: 10px;
+        height: 15px;
         transform: translate(-40%, 50%);
     }
-    
-    .container-contact__item3 img{
-        object-fit: cover;
-    }
-    
     .container-contact__item3{
+        background: white;
         grid-area: 2/6/6/10;
-        margin-top: 0;
+        margin-top: 0px;
+        padding: 10px;
     }
     
     .container-contact__item4{

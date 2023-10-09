@@ -27,7 +27,12 @@ header{
     padding: 0 10px;
 }
 
-.header-icon
+.header-logo{
+    font-size: 1.4rem;
+    color: var(--color-primary);
+    font-weight: 700;
+}
+
 
 main{
     width: 100%;

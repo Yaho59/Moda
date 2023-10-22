@@ -53,7 +53,7 @@ main{
 }
 
 .frontpage-container__item2{
-    background-image: url(../img/main.jpg);
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/moda-3fa35.appspot.com/o/main.jpg?alt=media&token=ddc950d9-9b43-4ea1-9612-c352ba9afb65&_gl=1*ulbifa*_ga*MzAzMDQ4MjIwLjE2NzczNjAyNDI.*_ga_CW55HF8NVT*MTY5ODAxNjI2My4yLjEuMTY5ODAxNjUwNS42MC4wLjA.');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -144,7 +144,7 @@ main{
 }
 
 .main-container__item2{
-    background-image: url(../img/section2.jpg);
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/moda-3fa35.appspot.com/o/section2.jpg?alt=media&token=b81b9520-9f9c-41a1-8d2f-74ebd74ee011&_gl=1*1qx9ynb*_ga*MzAzMDQ4MjIwLjE2NzczNjAyNDI.*_ga_CW55HF8NVT*MTY5ODAxNjI2My4yLjEuMTY5ODAxNjY0NC42MC4wLjA.');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -160,7 +160,7 @@ main{
 }
 
 .main-container__item4{
-    background-image: url(../img/section3.jpg);
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/moda-3fa35.appspot.com/o/section3.jpg?alt=media&token=312c498e-6f27-4932-8c14-d0a175e24c91&_gl=1*1qp1iwm*_ga*MzAzMDQ4MjIwLjE2NzczNjAyNDI.*_ga_CW55HF8NVT*MTY5ODAxNjI2My4yLjEuMTY5ODAxNjcwNy42MC4wLjA.');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -214,7 +214,7 @@ main{
 }
 
 .container-new-emotions__item2{
-    background-image: url('../img/circule2.jpg');
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/moda-3fa35.appspot.com/o/circule2.jpg?alt=media&token=64291abf-2146-4f8b-b54a-f961682735c0&_gl=1*nwr1ps*_ga*MzAzMDQ4MjIwLjE2NzczNjAyNDI.*_ga_CW55HF8NVT*MTY5ODAxNjI2My4yLjEuMTY5ODAxNjc2MC43LjAuMA..');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
